@@ -1,7 +1,7 @@
 # GroceryListAppSmartinterz Contains app
 #Virtual Internship - Android Application Development Using Kotlin
 
-Google Developer Profile:-https://g.dev/
+Google Developer Profile:-https://g.dev/ShankarKumar
 
 GDrive Link for the vedio:- https://drive.google.com/file/
 
